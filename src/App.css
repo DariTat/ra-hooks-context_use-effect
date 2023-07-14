@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  padding: 5px;
+  border: 1px solid black;
+}
+.details {
+  padding: 0;
+  margin-left: 20px;
+  list-style-type: none;
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 65%;
+}
+img {
+  padding:0;
+}
